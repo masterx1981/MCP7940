@@ -1,3 +1,6 @@
+All mods in this library are now applied on the main one.
+
+
 [![License: GPL v3](https://zanduino.github.io/Badges/GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Build](https://github.com/Zanduino/MCP7940/workflows/Build/badge.svg)](https://github.com/Zanduino/MCP7940/actions?query=workflow%3ABuild) [![Format](https://github.com/Zanduino/MCP7940/workflows/Format/badge.svg)](https://github.com/Zanduino/MCP7940/actions?query=workflow%3AFormat) [![Wiki](https://zanduino.github.io/Badges/Documentation-Badge.svg)](https://github.com/Zanduino/MCP7940/wiki) [![Doxygen](https://github.com/Zanduino/MCP7940/workflows/Doxygen/badge.svg)](https://Zanduino.github.io/MCP7940/html/index.html) [![arduino-library-badge](https://www.ardu-badge.com/badge/MCP7940.svg?)](https://www.ardu-badge.com/MCP7940)
 # MCP7940 library<br>
 
